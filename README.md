@@ -1,4 +1,4 @@
-# CS112.N21.KHTN-Group 9
+# CS112.N21.KHTN-Group 11
 Repository uses in course CS112.N21.KHTN - Algorithm analysis and design
 ## About the course
 - **University**: University of Information Technology - VNUHCM UIT.
