@@ -6,7 +6,7 @@ Repository uses in course CS112.N21.KHTN - Algorithm analysis and design
 - **Semester**: 2
 - **Year**: 2022 - 2023
 - **Lecturer**: Nguyễn Thanh Sơn
-## About the group 9
+## About the group 11
 |**Student ID**| **Member**|**Email**|
 |-----------|-----------|-----------|
 |21520474|Lê Hoài Thương|21520474@gm.uit.edu.vn|
